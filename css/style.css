@@ -1390,8 +1390,8 @@ body.mobile-nav-active #mobile-nav-toggle {
    overflow: hidden;
    border-radius: 10px;
    margin: 0 10px 40px 10px;
-   background: #333333bf;
-   box-shadow:0 10px 29px 0 #337ab76e;
+   background:rgba(0, 0, 0, 0.32);
+   box-shadow:0 10px 29px 0  rgba(43, 86, 140, 0.85);
    transition: all 0.3s ease-in-out;
    text-align: center;
    /* box-shadow: 0 0 15px #337ab7, 0 0 20px #337ab7; */
