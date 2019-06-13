@@ -2580,3 +2580,41 @@ canvas {
 .ptopa{
   padding-top: 60px !important;
 }
+
+
+
+
+
+/* ================================
+Our Clients
+================================= */
+
+
+#parallax2{
+  /* background-image: url(../img/bg-3.jpg); */
+  background-size: cover;
+  padding: 50px;
+  text-align: center;
+  /* background-color: rgb(0, 0, 0); */
+
+  background:linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.68)), url(../img/bg-3.jpg) fixed center center;
+
+}
+
+
+
+ul.clients {
+  list-style: none;
+  padding: 10px;
+}
+ul.clients li {
+  display: inline;
+  padding: 10px;
+}
+
+
+@media (max-width: 768px) {
+  .clients-img img {
+    min-width: 90%;
+  }
+}
