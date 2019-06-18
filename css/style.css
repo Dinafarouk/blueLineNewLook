@@ -1373,7 +1373,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------*/
 
 #services {
- background: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.68)), url(../img/services-bg.jpg) fixed center center; 
+ background: linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.68)), url(../img/ser2.jpg) fixed center center; 
   background-size: cover; 
   padding: 60px 0 40px 0;
   /* background-color: #F6F6F6; */
@@ -2595,9 +2595,9 @@ Our Clients
   background-size: cover;
   padding: 50px;
   text-align: center;
-  /* background-color: rgb(0, 0, 0); */
+  background-color: #111;
 
-  background:linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.68)), url(../img/bg-3.jpg) fixed center center;
+ /* background:linear-gradient(rgb(0, 0, 0), rgba(0, 0, 0, 0.68)), url(../img/ser2.jpg) fixed center center;  */
 
 }
 
